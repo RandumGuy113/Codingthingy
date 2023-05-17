@@ -22,11 +22,11 @@
     font-family: 'e Explosive Attack', sans-serif;
     font-size: 30px;
 }
-.title4white {
-    text-align: center;
-    font-family: 'e Explosive Attack', sans-serif;
-    font-size: 30px;
-    color: white;
+h1.title4white {
+  text-align: center;
+  font-family: 'e Explosive Attack', sans-serif;
+  font-size: 30px;
+  color: white;
 }
 body{
     margin: 0;
